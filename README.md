@@ -1,3 +1,3 @@
 # vidhidemo
-This is my first git repos
+This is my first git repository.
 Author-Vidhi Katre
